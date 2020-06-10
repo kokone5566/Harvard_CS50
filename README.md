@@ -5,6 +5,8 @@ I created this repository to record my learning steps.
 
 I recommended people who have common sense in programming because they are not easy for the newcomer. But I think it is worth for the newcomer to take these classes if you are interested in the programming.
 
+If you have any question about the code, feel free to contact me via my email: _kokone5566@gmail.com_.
+
 [CS50x](https://cs50.harvard.edu/x/2020/)
 
 [Academic Honesty](https://cs50.harvard.edu/x/2020/syllabus/#academic-honesty)
